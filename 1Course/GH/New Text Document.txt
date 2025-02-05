@@ -1,0 +1,6 @@
+resource-pack=https://download.mc-packs.net/pack/b2b5aabb29d35849f1f9b380f7188111ab58aab6.zip
+resource-pack-sha1=b2b5aabb29d35849f1f9b380f7188111ab58aab6
+
+resource-pack=https://download.mc-packs.net/pack/470a06aba04e0b87c79a132a9dd1895470eafe58.zip
+resource-pack-sha1=470a06aba04e0b87c79a132a9dd1895470eafe58
+

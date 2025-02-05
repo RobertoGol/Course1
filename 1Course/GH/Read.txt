@@ -1,0 +1,23 @@
+
+Download the latest .Net 6.0 Desktop Runtime:
+
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
+
+
+
+
+Run the .bat file
+
+OR
+
+Copy and Paste into CMD:
+
+﻿icacls.exe "C:\Program Files\dotnet" /grant "*S-1-15-2-1:(oi)(ci)(rx)"
+icacls.exe "C:\Program Files\dotnet" /grant "*S-1-15-2-2:(oi)(ci)(rx)"
+
+
+
+
+By Nathidraws 
+2023
